@@ -2,4 +2,4 @@
 
 contains Bot script for UniChat
 
-SM84CEBot.js is beind tested and is NOT working, help please!
+SM84CEBot.js is being tested and is YES working!
